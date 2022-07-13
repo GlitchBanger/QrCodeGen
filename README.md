@@ -1,1 +1,3 @@
 # QrCodeGen
+
+run index.html
