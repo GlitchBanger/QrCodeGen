@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+label {
+    margin-right: 5px;
+}
